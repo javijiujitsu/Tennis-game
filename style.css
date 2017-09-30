@@ -1,0 +1,28 @@
+
+.main-title{
+      color: #00ff00;
+      padding-left: 220px;
+      padding-bottom: 10px;
+}
+
+#gameCanvas {
+	color:red;
+}
+
+
+.container-fluid {
+	float: right;
+    padding-right:600px;
+
+}
+
+body {
+	
+ background-image: url('tennis.JPEG');
+ background-size: 100%;
+ 
+
+
+
+
+}
